@@ -75,10 +75,10 @@ const Home = () => {
   };
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-8">
+    <div className="mx-auto max-w-7xl px-4 py-2">
 
       {/* Hero Section */}
-      <section className="rounded-2xl bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-16 text-center text-white shadow-lg">
+      <section className="rounded-2xl bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-6 text-center text-white shadow-lg">
         <h1 className="mb-4 text-4xl font-bold md:text-5xl">
           Welcome to ShopSphere
         </h1>
